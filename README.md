@@ -5,6 +5,8 @@ Given an array of integers, create a PHP script that prints the sum of the array
 
 ---
 
+<img width="330" height="132" alt="Screenshot 2025-10-18 at 9 23 44 PM" src="https://github.com/user-attachments/assets/05fb0e9a-4714-4c02-b273-a99f3bd72d5f" />
+
 ### Files
 - `project4.php` – The PHP script that performs the array summation and outputs the result.
 
